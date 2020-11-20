@@ -4,7 +4,7 @@ int main()
 {
     int currVal = 0, val = 0;
 
-    std::cout << "Begin by giving the starting value:" << std::endl;
+    std::cout << "Begin by giving a starting value:" << std::endl;
     if (std::cin >> currVal)
     {
         int count = 0;
